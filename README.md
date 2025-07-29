@@ -11,7 +11,8 @@ This script calculates net sediment transport of a littoral cell. All you need i
 
 In quantifying sediment budgets, defining the spatial boundary within a coastal system is fundamental. Sediment compartments, or littoral cells defined as semi-enclosed systems where sediment sources, transport pathways, and sinks are contained within natural boundaries (Goodwin et al., 2020). 
 
-![image](https://github.com/user-attachments/assets/59e422b0-1f41-40c8-b8bf-ff5bd628e829) _Sediment budgets scheme for (A) beach, (B) Embayment, (C) shoal, and (D) barrier, indicating the sources, sinks and sediment budget delimitation.  Modified from Carter (1989)
-_
+![image](https://github.com/user-attachments/assets/59e422b0-1f41-40c8-b8bf-ff5bd628e829) 
+
+_Sediment budgets scheme for (A) beach, (B) Embayment, (C) shoal, and (D) barrier, indicating the sources, sinks and sediment budget delimitation.  Modified from Carter (1989)_
 
 
